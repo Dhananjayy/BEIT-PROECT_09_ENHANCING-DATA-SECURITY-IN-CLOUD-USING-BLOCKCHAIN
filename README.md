@@ -1,5 +1,5 @@
 # TOPIC
-Enhancing Data Security in Clous using Blockchain
+Enhancing Data Security in Cloud using Blockchain
 
 # GROUP MEMBERS
 Dhananjay Yadav, Aditi Shinde, Akash Nair
